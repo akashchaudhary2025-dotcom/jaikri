@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 62" role="img" aria-labelledby="title">
+  <title>Jaikri</title>
+  <path fill="#1d1b19" d="M7 6h10v31c0 8 3 12 10 12 6 0 9-4 9-11V6h10v33c0 14-8 22-19 22C15 61 7 53 7 39V6Z"/>
+  <path fill="#1d1b19" d="M65 6h9v20L90 6h12L83 29l20 27H91L74 34v22h-9V6Zm45 0h9v50h-9V6Zm20 0h10l18 32V6h9v50h-10l-18-32v32h-9V6Zm49 0h9v22l18-22h12l-20 24 21 26h-12l-19-23v23h-9V6Z"/>
+  <circle cx="244" cy="10" r="5" fill="#8d4d22"/>
+</svg>
