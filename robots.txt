@@ -1,0 +1,23 @@
+# Jaikri search engine directives
+# Keep customer-facing store pages crawlable and exclude private or transactional areas.
+
+User-agent: *
+Allow: /
+
+# Private, transactional, and internal utility pages
+Disallow: /account.html
+Disallow: /cart.html
+Disallow: /checkout.html
+Disallow: /seo-panel.html
+
+# Duplicate, tracking, and non-page file patterns
+Disallow: /*?*
+Disallow: /*.json$
+Disallow: /*.map$
+Disallow: /*.log$
+Disallow: /*.bak$
+Disallow: /*.zip$
+Disallow: /*.pdf$
+
+# Sitemap for all indexable Jaikri pages
+Sitemap: https://jaikri.com/sitemap.xml
